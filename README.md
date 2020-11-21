@@ -8,8 +8,12 @@ The official release of the Voron 2.4 3d printer.  You can find the BOM in the c
 ![Voron Logo](http://vorondesign.com/images/voron_design_logo.png)
 
 
-Must do mods:
+#Must do mods
+
 https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/randell/Door_Hinges
 
 https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/randell/Microswitch_Endstop
+
 https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Rhastlyn/60mmFanCover
+
+https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/hernsl/bottom_panel_mag_clip
